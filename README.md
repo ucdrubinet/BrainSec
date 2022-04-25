@@ -1,6 +1,7 @@
 # BrainSec
 Automated Grey and White Matter Segmentation in Digitized A*β*
-Human Brain Tissue WSI
+Human Brain Tissue WSI. This is the implementation details for the paper: 
+Z. Lai, L. Cerny Oliveira, R. Guo, W. Xu, Z. Hu, K. Mifflin, C. DeCarlie, S-C. Cheung, C-N. Chuah, and B. N. Dugger, "BrainSec: Automated Brain Tissue Segmentation Pipeline for Scalable Neuropathological Analysis," IEEE Access, 2022.
 
 ## Authors / Contributors
 * Runlin Guo
