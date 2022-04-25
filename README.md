@@ -1,4 +1,4 @@
-# BrainSeg
+# BrainSec
 Automated Grey and White Matter Segmentation in Digitized A*β*
 Human Brain Tissue WSI
 
@@ -90,6 +90,10 @@ Some special ones are:
       **Note: manual stain estimation using QuPath is required.**
     * [train.py](src/train.py) - Training script
 * [tests/](tests) - Testing cases for source code using Python `unittest`.
+
+## Plaque quantification pipeline
+* The two models are under folder /model. 
+* The main pipeline is in Plaque_Quantification.ipynb. 
 
 #### Note
 In this repo, all Python scripts that are meant to be run as top-level scripts
