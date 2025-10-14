@@ -103,7 +103,7 @@ That is, input arguments can be specified to change the default behavior.
 List of input arguments and their usage instructions can be found by
 `./my_python_script.py -h` or `./my_python_script.py <subcommand> -h`.
 
-## Credit
+## Credits
 * [plaquebox-paper (original repo)](https://github.com/keiserlab/plaquebox-paper)
 * [plaquebox-paper (fork with some code dev)](https://github.com/KolinGuo/plaquebox-paper)
 * [QuPath](https://qupath.github.io/)
