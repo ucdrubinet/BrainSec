@@ -3,6 +3,10 @@ Automated Grey and White Matter Segmentation in Digitized A*β*
 Human Brain Tissue WSI. This is the implementation details for the paper: 
 Z. Lai, L. Cerny Oliveira, R. Guo, W. Xu, Z. Hu, K. Mifflin, C. DeCarlie, S-C. Cheung, C-N. Chuah, and B. N. Dugger, "BrainSec: Automated Brain Tissue Segmentation Pipeline for Scalable Neuropathological Analysis," IEEE Access, 2022.
 
+## For using python scripts
+
+Code for the paper, "Clinical and pathologic correlations of machine learning quantification of Aβ deposits across 3 brain regions of decedents with Alzheimer’s disease", please open the "pyscripts" folder. This folder contains python code to run ".svs" files and ".czi" files
+
 ## Authors / Contributors
 * Runlin Guo
 * Wenda Xu
