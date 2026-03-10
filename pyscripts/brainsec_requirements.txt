@@ -1,4 +1,4 @@
-czifile
+czifile==2019.7.2
 ipywidgets==8.*
 jupyterlab
 matplotlib
